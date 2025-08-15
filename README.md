@@ -35,13 +35,6 @@ Built using public EV datasets, this project transforms raw data into meaningful
 
 ---
 
-## 🚀 How to Use
-1. Download the `.twbx` file from this repository.
-2. Open it in **Tableau Desktop**.
-3. Interact with the filters and charts to explore EV insights.
-
----
-
 ## 📌 Author
 **Sangamithra R**  
 *Bachelor of Engineering in Electronics and Communication Engineering*  
